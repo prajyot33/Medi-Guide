@@ -34,13 +34,13 @@ Live status updates.
 
 #Tech Stack
 1. Frontend
-  HTML5
-  CSS3
-  JavaScript
+HTML5
+CSS3
+JavaScript
 2. Backend
-  Node.js
-  Express.js
+Node.js
+Express.js
 3. AI & NLP
-  Rule-based Symptom Classification
-  Specialty Mapping Engine
-  Extensible ML Pipeline
+Rule-based Symptom Classification
+Specialty Mapping Engine
+Extensible ML Pipeline
